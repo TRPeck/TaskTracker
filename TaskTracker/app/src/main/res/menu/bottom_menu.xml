@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tasks_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_work"
+        android:title="@string/tasks_page_name"/>
+    <item
+        android:id="@+id/history_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_calendar"
+        android:title="@string/history_page_name"/>
+    <item
+        android:id="@+id/summary_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_timeline"
+        android:title="@string/summary_page_name"/>
+</menu>

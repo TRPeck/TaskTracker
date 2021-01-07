@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SomeMoreTests</string>
+    <string name="tasks_page_name">Tasks</string>
+    <string name="history_page_name">History</string>
+    <string name="summary_page_name">Summary</string>
+</resources>
